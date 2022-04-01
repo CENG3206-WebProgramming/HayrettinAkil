@@ -1,0 +1,14 @@
+#outer-box{
+    display:flex;
+    width: 500px;
+    height: 200px;
+    border: 0.5em solid #698733;
+    border-radius: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+img{
+    height : 70%;
+}
